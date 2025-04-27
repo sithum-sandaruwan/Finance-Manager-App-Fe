@@ -34,12 +34,12 @@ View the full UI/UX prototype on Figma:
 
 ## 🖼️ Wireframes
 
-| Screen                | Wireframe                                                              |
-| :-------------------- | :--------------------------------------------------------------------- |
-| Get Start Page        | ![Get Start Wireframe](./finance-manager-app/wireframes/GetStart.jpeg) |
-| Sign Up Page          | ![Sign Up Wireframe](./finance-manager-app/wireframes/SignUp.jpeg)     |
-| Add Transaction Modal | ![Add Transaction Wireframe](./wireframes/add-transaction.png)         |
-| Budget Overview       | ![Budget Wireframe](./wireframes/budget.png)                           |
+| Screen          | Wireframe                                                               |
+| :-------------- | :---------------------------------------------------------------------- |
+| Get Start Page  | ![Get Start Wireframe](./finance-manager-app/wireframes/GetStart.jpeg)  |
+| Sign Up Page    | ![Sign Up Wireframe](./finance-manager-app/wireframes/SignUp.jpeg)      |
+| Home Page       | ![Home page wireframe](./finance-manager-app/wireframes/Home.jpeg)      |
+| Dashboard Modal | ![Dashboard Wireframe](./finance-manager-app/wireframes/Dashboard.jpeg) |
 
 > _📎 Note: Place your wireframe images inside a `/wireframes` folder in the project root._
 
