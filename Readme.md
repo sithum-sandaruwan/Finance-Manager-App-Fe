@@ -1,6 +1,6 @@
 # 📈 Finance Manager App
 
-The **Finance Manager App** is a full-stack application built with **Next.js** that helps users track their personal and business finances. It features intuitive dashboards, transaction tracking, budgeting, and insightful analytics.
+The **Finance Manager App** is a full-stack application built with **Next.js** that helps users track their personal and business finances. It features intuitive dashboards, transaction tracking,monthly & weekly reports and insightful analytics.
 
 ---
 
@@ -8,7 +8,6 @@ The **Finance Manager App** is a full-stack application built with **Next.js** t
 
 - User Authentication (Sign In / Sign Up)
 - Add, Edit, Delete Transactions
-- Budget Planning
 - Financial Reports and Charts
 - Category Management
 - Responsive Design (Mobile & Desktop)
@@ -20,8 +19,8 @@ The **Finance Manager App** is a full-stack application built with **Next.js** t
 
 - **Frontend**: Next.js 14, React.js, Tailwind CSS
 - **Backend**: Next.js API Routes
-- **Database**: (Planned) PostgreSQL / MongoDB
-- **Authentication**: (Planned) NextAuth.js
+- **Database**: MongoDB
+- **Authentication**: Google Auth
 - **Hosting**: Vercel
 
 ---
